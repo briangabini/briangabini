@@ -5,9 +5,13 @@
 
 - 🌱 I’m currently learning **Nextjs**
 
-- 💬 Ask me about **javascript, typescript**
+- 👨‍💻 All of my projects are available at [https://github.com/briangabini?tab=repositories](https://github.com/briangabini?tab=repositories)
+
+- 💬 Ask me about **javascript, typescript, python, java**
 
 - 📫 How to reach me **briangabini@gmail.com**
+
+- 📄 Know about my experiences [https://briangabini.github.io/](https://briangabini.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
