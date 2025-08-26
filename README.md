@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **briangabini@gmail.com**
 
-- 📄 Know about my experiences [https://briangabini.github.io/](https://briangabini.github.io/)
+- 📄 Know about my experiences [https://www.briangabini.com](https://www.briangabini.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
