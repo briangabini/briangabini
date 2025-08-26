@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=briangabini&label=Profile%20views&color=0e75b6&style=flat" alt="briangabini" /> </p>
 
-- 🌱 I’m currently learning **Nextjs**
-
+- 🌱 I’m currently learning **Spring**
 - 👨‍💻 All of my projects are available at [https://github.com/briangabini?tab=repositories](https://github.com/briangabini?tab=repositories)
-
 - 💬 Ask me about **javascript, typescript, python, java**
-
 - 📫 How to reach me **briangabini@gmail.com**
-
 - 📄 Know about my experiences [https://www.briangabini.com](https://www.briangabini.com)
+
+Note: I made most of my university projects private. I will make my personal projects public soon!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
