@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Brian Gabini</h1>
+[<h1 align="center">Hi 👋, I'm Brian Gabini</h1>
 <h3 align="center">A passionate student developer from De LaSalle University in the Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=briangabini&label=Profile%20views&color=0e75b6&style=flat" alt="briangabini" /> </p>
@@ -17,3 +17,4 @@ Note: I made most of my university projects private. I will make my personal pro
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=briangabini&show_icons=true&locale=en&layout=compact" alt="briangabini" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=briangabini&show_icons=true&locale=en" alt="briangabini" /></p>
+](https://rahuldkjain.github.io/gh-profile-readme-generator/)
